@@ -1,2 +1,2 @@
-# AP2ZC
-UTB FAI Základy Jazyka C podklady
+# AP2ZC - Základy jazyka C
+Příklady a podklady ze cvičení.
