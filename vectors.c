@@ -25,7 +25,7 @@ int soucin(Node * n1, Node * n2)
 
 int main()
 {
-  Node * n1 = insert(1,NULL);
+  Node * n1 = insert(5,NULL);
   Node * n2 = insert(2,n1);
   
   Node * n3 = insert(3,NULL);
